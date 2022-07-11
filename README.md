@@ -1,6 +1,7 @@
 # Digital-clock
 This is a digital clock implemented using Arduino on Tinkercad.
-It displays time in te format HH:MM:SS with month and date at right-bottom corner.
+It displays time in the format HH:MM:SS with month and date at right-bottom corner.
+
 The final design view is as follows:
 ![view](https://user-images.githubusercontent.com/97884235/178207517-24a9ae05-f923-48ff-993d-fbe7e97ee896.png)
 
@@ -27,4 +28,4 @@ Views of project at different instants are as follows:
 ## 5)Setting the Month
 ![set month](https://user-images.githubusercontent.com/97884235/178207598-1153b33c-e03a-4d75-8beb-518df1d5fc35.png)
 
-This project is pmplementedon Tinkercad platform and linkis attached here --> https://www.tinkercad.com/things/7MicM0rUg2C-digital-clock/editel?sharecode=4M4oMoQzViJdAxnvvu0fw-z7ishWTLRHCCYLSHib21I
+This project is implemented on Tinkercad platform and link is attached here --> https://www.tinkercad.com/things/7MicM0rUg2C-digital-clock/editel?sharecode=4M4oMoQzViJdAxnvvu0fw-z7ishWTLRHCCYLSHib21I
