@@ -7,7 +7,7 @@
 // initialize the interface pins
 LiquidCrystal lcd(2,3,4,5,6,7);
 int s,m,h,a,d,state,state1,state2,dg,cnt,dt,mo;
-char months[13]={' ','1','2','3','4','5','6','7','8','9','o','n','d'};
+char months[13]={' ','1','2','3','4','5','6','7','8','9','A','B','C'};//A denotes 10, B denotes 11, C denotes 12
 int l[13]={0,31,29,31,30,31,30,31,31,30,31,30,31};
 
 
